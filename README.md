@@ -37,4 +37,17 @@
 	```
 	vi /etc/selinux/config
 	```
+
+
+- Check status of SE-Linux
 	 
+	  sestatus
+	 	
+
+
+- Change to SELinux Mode
+
+  ```
+  vi /etc/selinux/config
+  ```
+ 
