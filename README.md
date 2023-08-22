@@ -23,8 +23,9 @@
   ```
 
 
-- SElinux has three modes of operation:
-		1. Enforcing
-		2. Disabled
-		3. Permissive
- 
+- SElinux has three modes of operation
+  ```
+	1. Enforcing
+	2. Disabled
+	3. Permissive
+ ```
