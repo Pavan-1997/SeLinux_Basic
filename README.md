@@ -1,8 +1,10 @@
 # SeLinux Basic
 
 - Security-Enhanced Linux (SELinux) is a Linux kernel security module that provides a mechanism for supporting access control security policies
+
  
 - SELinux is implemented to provide an additional layer of protection, increase the control over processes execution, and protects against exploits by using multi level security.
+
 
 - SELinux works by using `Labels` and `Type Enforcement`
 
@@ -12,13 +14,16 @@
 
    Type Enforcement its the part where the policy dictates if for example within ssh process context running label ssh_exec_t to interact with a ssh file label
 
-  - There are two policies that can be used
+
+- There are two policies that can be used
   ```
-		1. Targeted Policy : The default policy
-		2. Minimum
-		3. Multi-Level/Multi Category Security-(MLS) Policy: Can be enabled.
-	```
-	• SElinux has three modes of operation:
+	1. Targeted Policy : The default policy
+	2. Minimum
+	3. Multi-Level/Multi Category Security-(MLS) Policy: Can be enabled.
+  ```
+
+
+- SElinux has three modes of operation:
 		1. Enforcing
 		2. Disabled
 		3. Permissive
