@@ -31,3 +31,10 @@
 	2. Disabled
 	3. Permissive
   ```
+
+
+- The modes of operation and the policy types are embedded inside “config” file which controls the state of the SELinux on the system.The file can be accessed using vim tool at
+```
+vi /etc/selinux/config
+```
+ 
