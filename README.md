@@ -16,6 +16,7 @@
 
 
 - There are two policies that can be used
+
   ```
 	1. Targeted Policy : The default policy
 	2. Minimum
@@ -24,6 +25,7 @@
 
 
 - SElinux has three modes of operation
+
   ```
 	1. Enforcing
 	2. Disabled
