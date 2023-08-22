@@ -17,20 +17,20 @@
 
 - There are two policies that can be used
 
-  ```
-	1. Targeted Policy : The default policy
-	2. Minimum
-	3. Multi-Level/Multi Category Security-(MLS) Policy: Can be enabled.
-  ```
+   
+		1. Targeted Policy : The default policy
+		2. Minimum
+		3. Multi-Level/Multi Category Security-(MLS) Policy: Can be enabled.
+   
 
 
 - SElinux has three modes of operation
 
-	  ```
+	   
 		1. Enforcing
 		2. Disabled
 		3. Permissive
-	  ```
+  
 
 
 - The modes of operation and the policy types are embedded inside “config” file which controls the state of the SELinux on the system.The file can be accessed using vim tool at
