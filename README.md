@@ -51,3 +51,4 @@
   vi /etc/selinux/config
   ```
  
+  ![image](https://github.com/Pavan-1997/SeLinux_Basic/assets/32020205/5ca76dce-2573-487f-a901-a6715720df11)
