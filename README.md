@@ -39,7 +39,7 @@
 	```
 
 
-- Check status of SE-Linux (0
+- Check status of SE-Linux (0 - Permissive/Disabled
 	 
 	  sestatus
 	 	
