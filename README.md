@@ -39,7 +39,7 @@
 	```
 
 
-- Check status of SE-Linux
+- Check status of SE-Linux (0
 	 
 	  sestatus
 	 	
