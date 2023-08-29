@@ -6,7 +6,7 @@
 - SELinux is implemented to provide an additional layer of protection, increase the control over processes execution, and protects against exploits by using multi level security.
 
 
-- SELinux works by using `Labels` and `Type Enforcement`
+- SELinux works by using `Labels` and `Type Enforcement`.
 
   For example , “sshd” service executable configuration directory is labeled ssh_exec_t as seen below using the command utility ls -Z as shown below:
  
