@@ -20,7 +20,7 @@
    
 		1. Targeted Policy : The default policy
 		2. Minimum
-		3. Multi-Level/Multi Category Security-(MLS) Policy: Can be enabled.
+		3. Multi-Level/Multi Category Security-(MLS) Policy: Can be enabled
    
 
 
