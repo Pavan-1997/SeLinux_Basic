@@ -13,7 +13,7 @@
   ![image](https://github.com/Pavan-1997/SeLinux_Basic/assets/32020205/2cbd68ce-5ddc-448a-823d-2b2b8f993f84)
 
    Type Enforcement its the part where the policy dictates if for example within ssh process context running label ssh_exec_t to interact with a ssh file label.
- 
+  
 
 - There are two policies that can be used
 
