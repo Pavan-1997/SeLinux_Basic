@@ -1,4 +1,4 @@
-# SeLinux Basic  
+# SeLinux Basic   
  
 - Security-Enhanced Linux (SELinux) is a Linux kernel security module that provides a mechanism for supporting mandatory access control security policies (MAC).
 
